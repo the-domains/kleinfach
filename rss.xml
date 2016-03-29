@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Kleinfach]]></title>
         <description><![CDATA[Kleinfach]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/kleinfach/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 29 Mar 2016 08:43:38 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 29 Mar 2016 08:43:45 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/kleinfach/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/16db8910-2a1c-4e65-a58b-05d32698fb9e.jpg">]]></description>
+            <link>https://thegrid.ai/kleinfach/hello-world/index.html</link>
+            <guid isPermaLink="false">5a45772a-8801-4868-9f4c-ed4658acc63a</guid>
+            <pubDate>Tue, 29 Mar 2016 08:43:38 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="http://www.watson.ch/imgdb/6e19/Qx,B,0,0,5616,3744,2340,1560,936,624/2425514478195910">]]></description>
-            <link>undefined4982c707-2c40-4b27-bbf9-aeba90f393e9/index.html</link>
+            <link>https://thegrid.ai/kleinfach/4982c707-2c40-4b27-bbf9-aeba90f393e9/index.html</link>
             <guid isPermaLink="false">4982c707-2c40-4b27-bbf9-aeba90f393e9</guid>
             <pubDate>Tue, 29 Mar 2016 08:43:38 GMT</pubDate>
         </item>
